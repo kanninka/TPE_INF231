@@ -1,8 +1,5 @@
 # Projet INF231 - TP
-Ce fichier contient les travaux pratiques du cours INF231.  
-Nous y déposons nos codes sources, rapports et autres documents liés au projet.
-
-Membres du groupe
+menbreb du groupe :https://docs.google.com/document/d/1O0je8BztdEPXgydFTnrF1vNA_WAytKtmAaJmGFFinlY/edit?usp=drivesdk
 ## Contenu du dépôt
 - `TP1_INF231.c` : Code source du premier TP
 - `README.md` : Description du projet
