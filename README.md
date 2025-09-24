@@ -1,10 +1,9 @@
 # Projet INF231 - TP
-
 Ce fichier contient les travaux pratiques du cours INF231.  
 Nous y déposons nos codes sources, rapports et autres documents liés au projet.
 
-## Membres du groupe
-- Matricule1 - Prénom Nom
+Membres du groupe
+-
 - Matricule2 - Prénom Nom
 - Matricule3 - Prénom Nom
 
